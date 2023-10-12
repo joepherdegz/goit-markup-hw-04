@@ -307,6 +307,7 @@ address {
    align-items: center;
    gap: 24px;
    padding: 8px 0px 32px 0px;
+    
 }
 
 .social-media-link {
@@ -314,6 +315,7 @@ address {
    background-color: var(--IRIS);
    padding: 12px;
    display: flex;
+    
 }
 
 .social-media-icon {
