@@ -170,7 +170,7 @@ address {
 /* Hero Section */
 .hero-section {
    background: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-      url(../images/hero-background.png);
+      url(/images1/people-office.jpg);
    padding: 188px 0;
    background-repeat: round;
    text-align: center;
@@ -319,9 +319,9 @@ address {
 .social-media-icon {
    display: flex;
    justify-content: center;
-   color: var(--CLOUD);
    width: 16px;
    height: 16px;
+   color: var(--CLOUD);
 }
 
 .social-media-link:hover,
@@ -436,6 +436,7 @@ address {
 .footer-social-media-icon {
    width: 24px;
    height: 24px;
+   color: var(--CLOUD);
 }
 
 .footer-social-media-link:hover,
