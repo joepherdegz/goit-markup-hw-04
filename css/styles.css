@@ -172,7 +172,7 @@ address {
 /* Hero Section */
 .hero-section {
    background: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-      url(/images1/people-office.jpg);
+      url(./images1/people-office.jpg);
    padding: 188px 0;
    background-repeat: round;
    text-align: center;
