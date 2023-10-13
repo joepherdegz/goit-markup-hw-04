@@ -319,11 +319,13 @@ address {
 }
 
 .social-media-icon {
+   color: var(--CLOUD);
    display: flex;
    justify-content: center;
    width: 16px;
    height: 16px;
-   color: var(--CLOUD);
+  
+    
 }
 
 .social-media-link:hover,
