@@ -57,7 +57,7 @@ a {
 }
 
 .container {
-   width: 1158px;
+   width: 1440px;
    margin: auto;
 }
 
@@ -91,6 +91,8 @@ button {
 .main-header-container {
    display: flex;
    justify-content: space-between;
+   padding-left: 156px;
+   padding-right: 200px;
 }
 
 nav {
@@ -208,7 +210,9 @@ address {
 
 /* Advantage Section */
 .adv-section {
+   display: flex;
    padding-top: 120px;
+    
 }
 
 .adv-list {
@@ -392,6 +396,7 @@ address {
 .footer {
    background: var(--NAVY-BLUE);
    padding: 120px 0;
+   padding-left: 156px;
 }
 
 .footer-text-logo-studio {
