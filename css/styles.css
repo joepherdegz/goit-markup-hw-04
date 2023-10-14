@@ -274,7 +274,10 @@ address {
    gap: 24px;
    justify-content: center;
 }
+.our-team-item img {
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 
+}
 .our-team-item {
    display: inline-block;
    border-radius: 0px 0px 4px 4px;
@@ -390,7 +393,7 @@ address {
 /* Footer */
 .footer-container {
    display: flex;
-   column-gap: 120px;
+   column-gap: 160px;
 }
 
 .footer {
@@ -514,7 +517,11 @@ address {
    column-gap: 24px;
    row-gap: 48px;
 }
-
+.card-list-img:hover {
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+      opacity: 0.9;
+      transition: opacity 0.2s;
+}
 .card-list-item {
    display: inline-block;
    border: 1px solid var(--CORNFLOWER);
